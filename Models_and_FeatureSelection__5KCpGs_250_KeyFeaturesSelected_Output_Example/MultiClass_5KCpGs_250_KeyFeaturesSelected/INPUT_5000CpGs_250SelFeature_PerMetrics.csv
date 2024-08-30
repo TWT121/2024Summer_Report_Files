@@ -1,0 +1,21 @@
+Number_of_CpG_used,Number_of_Phenotype_Features_Used,Total_Number_of_features_before_Preprocessing,Number_of_features_after_processing,Classification_Type,Number_of_Key_features_Selected_.Mean.Median.,Number_of_Key_features_remained_based_on_frequency_methods,Metrics_Stage,Metric,Logistic_regression,Elastic_Net,XGBoost,Random_Forest,SVM
+5000,5,5005,155,Multiclass,250,155,Model Train Stage,Training Accuracy,0.96043956,0.863736264,1,1,0.938461538
+5000,5,5005,155,Multiclass,250,155,Model Train Stage,Test Accuracy,0.70984456,0.720207254,0.585492228,0.569948187,0.663212435
+5000,5,5005,155,Multiclass,250,155,Model Train Stage,Test Kappa,0.498701299,0.498677185,0.251067132,0.16844892,0.456267337
+5000,5,5005,155,Multiclass,250,155,Model Train Stage,AUC,0.832869952,0.856627178,0.735786271,0.647561799,0.561754809
+5000,5,5005,155,Multiclass,250,155,Model Train Stage,Average Test Accuracy during Cross Validation,0.633163101,0.586840845,0.568642855,0.547303888,0.713506928
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Mean) ,Training Accuracy,0.96043956,0.863736264,1,1,0.951648352
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Mean) ,Test Accuracy,0.70984456,0.720207254,0.637305699,0.564766839,0.683937824
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Mean) ,Test Kappa,0.498701299,0.498677185,0.343569312,0.146736842,0.475473379
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Mean) ,AUC,0.832942102,0.856627178,0.696010363,0.653668354,0.542020968
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Mean) ,Average Test Accuracy during Cross Validation,0.632669274,0.586895193,0.566357877,0.544348711,0.71147228
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Median) ,Training Accuracy,0.96043956,0.863736264,1,1,0.953846154
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Median) ,Test Accuracy,0.70984456,0.720207254,0.626943005,0.549222798,0.74611399
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Median) ,Test Kappa,0.498701299,0.498677185,0.330990323,0.134306042,0.568862548
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Median) ,AUC,0.832905772,0.856627178,0.697500482,0.641525582,0.519844131
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Median) ,Average Test Accuracy during Cross Validation,0.632669274,0.586840845,0.566299619,0.542875192,0.67690485
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Frequency) ,Training Accuracy,0.96043956,0.863736264,1,1,0.958241758
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Frequency) ,Test Accuracy,0.70984456,0.720207254,0.652849741,0.549222798,0.730569948
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Frequency) ,Test Kappa,0.498701299,0.498677185,0.371854659,0.128374169,0.543942561
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Frequency) ,AUC,0.832869952,0.856627178,0.735919124,0.664751293,0.524725818
+5000,5,5005,155,Multiclass,250,155,Key Feature Evaluation (Select based on Frequency) ,Average Test Accuracy during Cross Validation,0.63291082,0.586840845,0.567759148,0.547287785,0.699563448
