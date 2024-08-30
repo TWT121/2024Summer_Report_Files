@@ -1,0 +1,21 @@
+"Number_of_CpG_used","Number_of_Phenotype_Features_Used","Total_Number_of_features_before_Preprocessing","Number_of_features_after_processing","Classification_Type","Number_of_Key_features_Selected_.Mean.Median.","Number_of_Key_features_remained_based_on_frequency_methods","Metrics_Stage","Metric","Logistic_regression","Elastic_Net","XGBoost","Random_Forest","SVM"
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Model Train Stage","Training Accuracy",1,0.932126696832579,1,1,0.986425339366516
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Model Train Stage","Test Accuracy",0.936170212765957,0.872340425531915,0.75531914893617,0.723404255319149,0.893617021276596
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Model Train Stage","Test Kappa",0.844198895027624,0.651851851851852,0.324797001873829,0.0974889217134418,0.760448521916412
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Model Train Stage","AUC",0.981601731601732,0.994588744588745,0.758658008658009,0.792748917748918,0.982142857142857
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Model Train Stage","Average Test Accuracy during Cross Validation",0.739775533108866,0.745487373737374,0.714373363262252,0.702895622895623,0.909393939393939
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Mean) ","Training Accuracy",1,0.927601809954751,1,1,0.995475113122172
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Mean) ","Test Accuracy",0.914893617021277,0.861702127659574,0.776595744680851,0.702127659574468,0.914893617021277
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Mean) ","Test Kappa",0.787810383747178,0.618363522798251,0.383510306058713,0,0.804573804573805
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Mean) ","AUC",0.978896103896104,0.988636363636364,0.794372294372294,0.793831168831169,0.965909090909091
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Mean) ","Average Test Accuracy during Cross Validation",0.759753086419753,0.743785353535354,0.715306771417883,0.69989898989899,0.924713804713805
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Median) ","Training Accuracy",1,0.932126696832579,1,1,0.995475113122172
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Median) ","Test Accuracy",0.914893617021277,0.851063829787234,0.765957446808511,0.74468085106383,0.957446808510638
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Median) ","Test Kappa",0.787810383747178,0.584070796460177,0.376357056694813,0.189655172413793,0.900318133616119
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Median) ","AUC",0.983766233766234,0.993506493506493,0.819805194805195,0.776244588744589,0.9745670995671
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Median) ","Average Test Accuracy during Cross Validation",0.743265993265993,0.748,0.722698279087168,0.702929292929293,0.926060606060606
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Frequency) ","Training Accuracy",1,0.927601809954751,1,1,1
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Frequency) ","Test Accuracy",0.914893617021277,0.861702127659574,0.797872340425532,0.734042553191489,0.925531914893617
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Frequency) ","Test Kappa",0.787810383747178,0.618363522798251,0.479300291545189,0.1442097596504,0.83067421513124
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Frequency) ","AUC",0.978354978354978,0.990800865800866,0.830627705627706,0.795725108225108,0.981601731601732
+5000,5,5005,282,"CN vs Dementia (AD)",250,262,"Key Feature Evaluation (Select based on Frequency) ","Average Test Accuracy during Cross Validation",0.743288439955107,0.750209595959596,0.718590534979424,0.705959595959596,0.90959595959596

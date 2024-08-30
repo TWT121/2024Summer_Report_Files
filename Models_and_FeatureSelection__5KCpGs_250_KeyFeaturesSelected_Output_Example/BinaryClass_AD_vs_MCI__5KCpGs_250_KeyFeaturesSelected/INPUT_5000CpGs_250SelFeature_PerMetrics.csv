@@ -1,0 +1,21 @@
+"Number_of_CpG_used","Number_of_Phenotype_Features_Used","Total_Number_of_features_before_Preprocessing","Number_of_features_after_processing","Classification_Type","Number_of_Key_features_Selected_.Mean.Median.","Number_of_Key_features_remained_based_on_frequency_methods","Metrics_Stage","Metric","Logistic_regression","Elastic_Net","XGBoost","Random_Forest","SVM"
+5000,5,5005,318,"MCI vs Dementia",250,255,"Model Train Stage","Training Accuracy",1,1,1,1,1
+5000,5,5005,318,"MCI vs Dementia",250,255,"Model Train Stage","Test Accuracy",0.897637795275591,0.811023622047244,0.78740157480315,0.779527559055118,0.889763779527559
+5000,5,5005,318,"MCI vs Dementia",250,255,"Model Train Stage","Test Kappa",0.663404689092762,0.404454865181712,0.123242137560726,0,0.702177554438861
+5000,5,5005,318,"MCI vs Dementia",250,255,"Model Train Stage","AUC",0.93001443001443,0.827200577200577,0.732683982683983,0.852272727272727,0.955266955266955
+5000,5,5005,318,"MCI vs Dementia",250,255,"Model Train Stage","Average Test Accuracy during Cross Validation",0.832974591707573,0.797560803927017,0.790018412178966,0.780030564045568,0.929824951375382
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Mean) ","Training Accuracy",1,1,1,1,1
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Mean) ","Test Accuracy",0.881889763779528,0.826771653543307,0.779527559055118,0.779527559055118,0.929133858267717
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Mean) ","Test Kappa",0.600041990342221,0.438504823151125,0.218461538461539,0,0.806238345482285
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Mean) ","AUC",0.923520923520924,0.819264069264069,0.743506493506494,0.78517316017316,0.982323232323232
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Mean) ","Average Test Accuracy during Cross Validation",0.86291068506684,0.794529823099009,0.800023334671153,0.778900620542743,0.896783674477478
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Median) ","Training Accuracy",1,1,1,1,1
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Median) ","Test Accuracy",0.897637795275591,0.811023622047244,0.795275590551181,0.779527559055118,0.905511811023622
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Median) ","Test Kappa",0.672874975232812,0.404454865181712,0.274285714285715,0,0.75065445026178
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Median) ","AUC",0.931096681096681,0.824675324675325,0.776334776334776,0.815836940836941,0.961038961038961
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Median) ","Average Test Accuracy during Cross Validation",0.861848352937544,0.792807145503381,0.796654686315472,0.778900620542743,0.93449723688679
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Frequency) ","Training Accuracy",1,1,1,1,1
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Frequency) ","Test Accuracy",0.889763779527559,0.811023622047244,0.803149606299213,0.779527559055118,0.913385826771654
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Frequency) ","Test Kappa",0.632188663632602,0.404454865181712,0.267927138575052,0,0.757338891783915
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Frequency) ","AUC",0.926767676767677,0.828282828282828,0.711399711399711,0.77958152958153,0.952020202020202
+5000,5,5005,318,"MCI vs Dementia",250,255,"Key Feature Evaluation (Select based on Frequency) ","Average Test Accuracy during Cross Validation",0.863274983791794,0.792973812170047,0.798533080176592,0.777770677039919,0.928841962273471
